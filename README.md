@@ -2,7 +2,7 @@
 Trabajo formado por Teresa, Carlota, Paula y Esther.
 
 
-*Ejercicio 23:* Define un diagrama de clases utilizando el patrón Composite para relacionar los conceptos de edificio y conjunto construido.
+- Ejercicio 23: Define un diagrama de clases utilizando el patrón Composite para relacionar los conceptos de edificio y conjunto construido.
 
 Solución:
 
