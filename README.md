@@ -1,5 +1,7 @@
 # TrabajoGrupal1-EDA
-Trabajo formado por Teresa, Carlota, Paula y Esther.
+Trabajo formado por Teresa Álvarez, Carlota Sánchez, Paula Naranjo y Esther Rodríguez.
+
+Es necesario tener en cuenta que casi siempre existen múltiples soluciones aceptables para los ejercicios de modelado conceptual, por lo que las soluciones propuestas no son necesariamente las únicas válidas.
 
 
 - Ejercicio 23: Define un diagrama de clases utilizando el patrón Composite para relacionar los conceptos de edificio y conjunto construido.
