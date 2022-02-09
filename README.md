@@ -17,3 +17,17 @@ Es necesario tener en cuenta que casi siempre existen múltiples soluciones acep
 
   Solución:
 
+![image](https://user-images.githubusercontent.com/91721860/153236484-0f1fbc12-c69a-40ef-a6e3-6f3f6ba589f1.png)
+
+
+PROCESO DEL MODELADO
+
+- Ejercicio 25: Se han escogido dos definiciones del diccionario, como sigue:
+
+LIBRO: Conjunto de hojas de papel manuscritas o impresas que, cosidas o encuadernadas, forman un volumen.
+
+MUESTRA: Parte o porción extraída de un conjunto, por métodos que permiten considerarla representativa del mismo.
+
+Construye clases que representen cada uno de los conceptos, identificando las variables e invariantes contenidas en las definiciones del diccionario. Añade también la definición formal de cada clase. No incorpores información que no esté presente en las definiciones del diccionario.
+
+  Solución:
