@@ -24,10 +24,10 @@ PROCESO DEL MODELADO
 
 - Ejercicio 25: Se han escogido dos definiciones del diccionario, como sigue:
 
-LIBRO: Conjunto de hojas de papel manuscritas o impresas que, cosidas o encuadernadas, forman un volumen.
+  LIBRO: Conjunto de hojas de papel manuscritas o impresas que, cosidas o encuadernadas, forman un volumen.
 
-MUESTRA: Parte o porción extraída de un conjunto, por métodos que permiten considerarla representativa del mismo.
+  MUESTRA: Parte o porción extraída de un conjunto, por métodos que permiten considerarla representativa del mismo.
 
-Construye clases que representen cada uno de los conceptos, identificando las variables e invariantes contenidas en las definiciones del diccionario. Añade también la definición formal de cada clase. No incorpores información que no esté presente en las definiciones del diccionario.
+  Construye clases que representen cada uno de los conceptos, identificando las variables e invariantes contenidas en las definiciones del diccionario. Añade también la    definición formal de cada clase. No incorpores información que no esté presente en las definiciones del diccionario.
 
   Solución:
