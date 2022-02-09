@@ -15,4 +15,5 @@ Es necesario tener en cuenta que casi siempre existen múltiples soluciones acep
 ![ej 24](https://user-images.githubusercontent.com/91721860/153233922-cfb3ad55-75b1-4219-bff3-cbadb5818c38.JPG)
 
 
+  Solución:
 
