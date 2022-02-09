@@ -1,2 +1,2 @@
 # TrabajoGrupal1-EDA
-Trabajo formado por Teresa, Carlota, Paula y Esther
+Trabajo formado por Teresa, Carlota, Paula y Esther.
