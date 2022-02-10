@@ -83,6 +83,18 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="27" value="3..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="470" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="2..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="125" y="480" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="0..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="470" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="710" y="470" width="60" height="30" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
