@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e">
+    <diagram id="ocQPLcwwBQKIG_pDOVZC" name="Página-1">
+        <mxGraphModel dx="434" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Persona" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="120" width="220" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Nombre: 1 texto&#10;Primer apellido: 1 texto&#10;Segundo apellido: 1 texto&#10;Fecha de nacimiento: 1 tiempo&#10;Sexo: 1 texto&#10;Numero de identificación: 0..1 texto" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="2">
+                    <mxGeometry y="30" width="220" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="40" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rotation=-180;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="40" width="120" height="130" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
