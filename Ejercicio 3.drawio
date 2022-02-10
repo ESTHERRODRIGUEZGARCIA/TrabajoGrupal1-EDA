@@ -1,0 +1,64 @@
+<mxfile host="65bd71144e">
+    <diagram id="r-BPJe6_A6iXpMxX3RVr" name="Página-1">
+        <mxGraphModel dx="627" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Gioconda: Cuadro" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="160" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Título = &quot;La Gioconda&quot;&lt;br&gt;AC = &quot;1503-1516&quot;&lt;br&gt;Técnica = Óleo&lt;br&gt;Sub-técnica = Sfumato&lt;br&gt;Soporte = Madera de álamo&lt;br&gt;Autor = &quot;Leonardo da Vinci&quot;&lt;br&gt;Estado de conservación = Regular" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="30" y="40" width="140" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="L2: Lugar" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="430" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Institución = &quot;Museo de El Prado&quot;&lt;br&gt;Ciudad = &quot;Madrid&quot;&lt;br&gt;País = &quot;España&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7">
+                    <mxGeometry x="40" y="65" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="L1: Lugar" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="620" y="160" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Institución = &quot;Museo del Louvre&quot;&lt;br&gt;Ciudad = &quot;París&quot;&lt;br&gt;Pais = &quot;Francia&quot;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8">
+                    <mxGeometry x="20" y="70" width="170" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Réplica: Cuadro" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="450" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Titulo = &quot;Gioconda de El Prado&quot;&lt;br&gt;AC = &quot;1503-1516&quot;&lt;br&gt;Técnica = Óleo&lt;br&gt;Sub-técnica = Pincelada simple&lt;br&gt;Soporte = Madera de Nogal&lt;br&gt;Autor = Desconocido&lt;br&gt;Estado de conservación = Bueno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9">
+                    <mxGeometry y="20" width="200" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="17">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="500" y="550" as="sourcePoint"/>
+                        <mxPoint x="610" y="550" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="600" y="550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="8">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="510" y="320" as="sourcePoint"/>
+                        <mxPoint x="560" y="270" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="Se localiza en :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="520" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Se localiza en:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="230" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.55;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="430" as="sourcePoint"/>
+                        <mxPoint x="460" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="Es Réplica de:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+                    <mxGeometry x="324" y="390" width="90" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
